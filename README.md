@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="[https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3](https://profile-readme-generator.com/assets/pacman.svg)" height="150" alt="streak graph"  />
+ <img src="https://profile-readme-generator.com/assets/pacman.svg" height="150" alt="streak graph"  />
   
 </div>
 
