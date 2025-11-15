@@ -3,7 +3,9 @@
    
    
 </div>
-for freelance work? do reach, [email](mailto:malikdaniyaldawood@gmail.com):)
+for freelance work? do reach, <a href="mailto:malikdaniyaldawood@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" />
+</a>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
