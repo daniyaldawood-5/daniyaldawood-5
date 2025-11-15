@@ -43,10 +43,9 @@
 
 ###
 
-<picture>
-
-  <img alt="pacman contribution graph" src="
-https://profile-readme-generator.com/assets/pacman.svg">
-</picture>
+<div align="center">
+  <img src="[https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3](https://profile-readme-generator.com/assets/pacman.svg)" height="150" alt="streak graph"  />
+  
+</div>
 
 ###
