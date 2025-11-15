@@ -14,7 +14,7 @@ for freelance work? do reach —
 ```txt
 TypeScript   7 hrs 28 mins   █████████████████████░░░░   83.99 %
 JSON         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   0.17 %
-JavaScript   31 mins         █████████░░░░░░░░░░░░░░░░   05.93 %
+JavaScript   4 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   05.93 %
 Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
